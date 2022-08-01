@@ -1,0 +1,50 @@
+1. echo
+	Displays a line of text 
+
+2. pwd
+	Prints name of the current directory
+
+3. man
+	Default interface to the system's reference manuals
+
+4. ls
+	Lists directory conetents
+
+5. cd
+	Changes the present working directory
+
+6. clear
+	Clears the terminal screen
+
+7. exit
+	Terminates the terminal
+
+8. touch
+	Creates/changes the file 
+
+9. cat 
+	Concatenate files and print on the standard output by deault
+
+10. head 
+	Outputs the file from begining 
+
+11. tail
+	Outputs the file from the end
+
+12. grep
+	Prints lines that matches pattern in files.
+
+13. rmdir
+	removes empty directories
+
+14. rm
+	removes files or directories
+
+15. mkdir
+	creates Directory
+
+16. mv
+	Moves/Renames the directory location
+
+17. cp
+	Copy files and directories
